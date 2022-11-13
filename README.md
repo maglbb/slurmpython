@@ -1,0 +1,2 @@
+# slurmpython
+Python-разработчик demo
